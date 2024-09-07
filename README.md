@@ -1,7 +1,5 @@
 # FlipNest
 
-# FlipNest
-
 FlipNest is a fully functional e-commerce website built with the MERN stack (MongoDB, Express.js, React.js, and Node.js). The project includes an admin panel for managing products and user interfaces for browsing and purchasing items. Payments are processed through Stripe.
 
 ## Features
