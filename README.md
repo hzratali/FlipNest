@@ -39,7 +39,7 @@ To run FlipNest locally, follow these steps:
 2. **Navigate to the project directory**:
 
    ```bash
-   cd flipnest
+   cd FlipNest
    ```
    
 3. **Install Backend Dependencies**:
